@@ -1,2 +1,3 @@
 #Python Test
-print('This was a test python file')
+x = 666
+print('This was a test python file', x)
